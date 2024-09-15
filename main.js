@@ -19,4 +19,4 @@ function changingImage() {
 }
 
 changingImage();
-setInterval(changingImage, 1000); 
+setInterval(changingImage, 2000); 
